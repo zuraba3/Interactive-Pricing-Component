@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution]()
-- Live Site URL: [GitHub Live URL]()
+- Solution URL: [Solution](https://github.com/zuraba3/Interactive-Pricing-Component)
+- Live Site URL: [GitHub Live URL](https://zuraba3.github.io/Interactive-Pricing-Component/)
 
 ## My process
 
